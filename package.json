@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wvxbs/Severino/issues"
   },
-  "homepage": "https://github.com/wvxbs/Severino#readme"
+  "homepage": "https://github.com/wvxbs/Severino#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
 }
